@@ -1,0 +1,19 @@
+pandas
+openpyxl
+cryptography
+fpdf
+xlrd
+pywin32
+tkcalendar
+python-bidi
+arabic_reshaper
+num2words
+Cython
+pillow
+python-barcode
+winshell
+boto3
+ntplib
+requests
+flask_sqlalchemy
+python -m pip install --upgrade pip
